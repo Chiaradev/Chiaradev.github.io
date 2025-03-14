@@ -1,7 +1,7 @@
 languageCode = "it"
 languageName = "Italiano"
 weight = 2
-title = "Blowfish"
+title = "Chiara De Vivo"
 
 [params]
   displayName = "Italiano"
@@ -12,7 +12,7 @@ title = "Blowfish"
   description = "Un potente, leggero tema per Hugo."
 
 [params.author]
-  name = "Blowfish"
+  name = "blowfish"
   image = "img/blowfish_logo.png"
   headline = "Un potente, leggero tema per Hugo."
   bio = "Un potente, leggero tema per Hugo."

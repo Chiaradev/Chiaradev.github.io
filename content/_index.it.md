@@ -11,7 +11,7 @@ description: "Questa pagina è stata creata utilizzando il tema Blowfish per Hug
     <pulsante
       id="interruttore-layout-pulsante"
       class="px-4 !text-neutral !no-underline round-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
+    >hugo
       Cambia layout &orarr;
     </pulsante>
   </span>
